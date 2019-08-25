@@ -1,0 +1,22 @@
+{
+  "name": "shadowizard-greg",
+  "version": "1.0.0",
+  "description": "Adding shadows to images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregSithole/shadowizard.git"
+  },
+  "keywords": [
+    "box-shadow"
+  ],
+  "author": "Greg Sithole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GregSithole/shadowizard/issues"
+  },
+  "homepage": "https://github.com/GregSithole/shadowizard#readme"
+}
