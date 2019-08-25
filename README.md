@@ -4,12 +4,12 @@ Based on the DesignCourse's shadowizard youtube video regarding creating your ow
 
 ## Installation
 
-`npm i shadowizard --save`
+`npm i shadowizard-greg --save`
 
 ## Usage
 
 ```
-import { shadowizard } from 'shadowizard'
+import { shadowizard } from 'shadowizard-greg'
 
 shadowizard({
     shadow_type: 'soft',
