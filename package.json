@@ -1,6 +1,6 @@
 {
   "name": "shadowizard-greg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adding shadows to images",
   "main": "index.js",
   "scripts": {
