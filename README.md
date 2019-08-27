@@ -1,6 +1,8 @@
 # Shadowizard
 
-Based on the DesignCourse's shadowizard youtube video regarding creating your own NPM Package
+This repo is based on the DesignCourse's *shadowizard* youtube video, which is a guide on learning how to create and publish an NPM package.
+If you're interested in learning, please visit [https://www.youtube.com/watch?v=4zzbNac6f6Q](https://www.youtube.com/watch?v=4zzbNac6f6Q)
+
 
 ## Installation
 
